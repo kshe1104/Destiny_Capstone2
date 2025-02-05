@@ -2,6 +2,13 @@
 
 ###기간: 2023.09 ~ 2020.12
 
+## 개발환경
+* Flask
+* Vue.js
+* Python
+* VSCode
+* JupyterHub
+
 ---
 
 # 목표
