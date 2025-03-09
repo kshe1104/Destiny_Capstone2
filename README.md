@@ -35,9 +35,6 @@ Google Timeline 데이터를 기반으로, 두 사용자가 이전에 같은 장
 ## 팀원
 ### Frontend 1명, Backend 1명, Devops 1명
 
-## 나의 역할 
-### Frontend 및 알고리즘 구현
----
 
 ### 설명
 * Google에서 자신의 Timeline 데이터를 추출하여 업로드함.
@@ -46,13 +43,35 @@ Google Timeline 데이터를 기반으로, 두 사용자가 이전에 같은 장
 
 * GoogleMap에 서로의 동선이 표시되고 만났던 장소가 있었다면 마크로 표시됨.
 
+
+## 나의 역할 
+### Frontend 및 알고리즘 구현
+✅ Vue.js 기반 웹 애플리케이션 개발
+* Vue Router를 활용하여 화면 전환을 구현하고 사용자 경험을 개선함
+* 상태 관리를 통해 사용자 데이터(업로드된 Google Timeline 데이터)를 처리
+
+✅ Google Maps API 연동
+* Google Timeline 데이터를 활용하여 지도에 사용자의 이동 경로를 시각적으로 표현
+* 두 사용자 간의 만남 여부를 분석하여 지도에 마커를 표시
+
+✅ 데이터 시각화 및 UI/UX 개선
+* 사용자가 직관적으로 데이터를 확인할 수 있도록 동선 표시 및 UI 설계
+
+
+✅ 팀원 간 협업 및 백엔드 연동
+* 백엔드 개발자와 협업하여 API 요청/응답 방식 정의 및 테스트
+* JSON 데이터를 파싱하여 프론트엔드에서 효과적으로 활용할 수 있도록 로직 구현
+
+---
+
+
 ---
 
 # 성과 및 배운점
 
 ### 처음으로 Vue.Js 를 다뤄봄
 
-* GoogleMap API와 GoogleTimeline API 활용법
+* GoogleMap API와 GoogleTimeline API 활용법(외부 오픈소스와 라이브러리 활용법)
 
 * FrontEnd와 BackEnd의 이해
 
