@@ -42,6 +42,9 @@ Google Timeline 데이터를 기반으로, 두 사용자가 이전에 같은 장
 * 두사람의 데이터를 비교하여 과거에 만난 적이 있었는지를 비교함
 
 * GoogleMap에 서로의 동선이 표시되고 만났던 장소가 있었다면 마크로 표시됨.
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/c4ab17a6-d31d-4e62-b9c5-c5277c03238c" />
+
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/2ed8f68a-259d-480a-8304-cdd70ddae643" />
 
 
 ## 나의 역할 
