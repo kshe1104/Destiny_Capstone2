@@ -1,0 +1,17 @@
+blinker
+click
+flask
+flask-cors
+geographiclib
+geopy
+haversine
+itsdangerous
+jinja2
+markupsafe
+numpy
+pandas
+python-dateutil
+pytz
+six
+tzdata
+werkzeug
